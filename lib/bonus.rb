@@ -18,6 +18,8 @@ def bonus
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
+   epic_tragedy[:montague][:hero][:status] = 'dead'
+   epic_tragedy[:montague][:heroine][:status] = 'dead'
   }
 
   #code your solution here:
